@@ -21,7 +21,7 @@ class Flight:
 def main():
 
 	f1=Flight(origin="New York", destination ="Paris", duration=540)
-	f1.delay(20)
+	f1.delay(30)
 	f1.print_info()
 
 	
