@@ -43,7 +43,7 @@ def main():
 
 
 	alice=Passenger(name="Bernard")
-	bob=Passenger(name="Ehorm")
+	bob=Passenger(name="Kathryn")
 
 	f1.add_passenger(alice)
 	f1.add_passenger(bob)
