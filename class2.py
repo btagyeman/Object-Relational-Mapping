@@ -42,8 +42,8 @@ def main():
 	f1= Flights(origin="New York", destination="Paris", duration=540)
 
 
-	alice=Passenger(name="Alice")
-	bob=Passenger(name="Bob")
+	alice=Passenger(name="Bernard")
+	bob=Passenger(name="Ehorm")
 
 	f1.add_passenger(alice)
 	f1.add_passenger(bob)
